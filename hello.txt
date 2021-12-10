@@ -1,8 +1,1 @@
-<html>
-	<head>
-		<title> DEMO PAGE </title>
-	</head>
-	<body>
-		<p> DEMO </p>
-	</body>
-<html>
+this is a simple text file
